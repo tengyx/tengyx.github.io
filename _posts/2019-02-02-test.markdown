@@ -1,0 +1,24 @@
+layout:     post
+title:         "Welcome to Hux Blog"
+subtitle:    " \"Hello World, Hello Blog\""
+date:        2019-02-02 22:03:39
+author:     "Deng sir"
+header-img: "img/DSC03334-1.jpg"
+tags:
+-test
+---
+
+
+> “Yeah It's on. ”
+
+## 这是标题
+
+[这是链接](https://www.shanbay.com)
+
+下面的话我想分点来说
+
+*第一点
+*第二点
+*第三点
+
+**这句话我想加粗来说**
