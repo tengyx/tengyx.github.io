@@ -1,12 +1,14 @@
 ---
 layout:     post
-title:      "test"
+title:      "TEST"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2019-02-02 22:03:39
+date:       2019-02-02 22:30:09
 author:     "Deng sir"
 header-img: "img/DSC03334-1.jpg"
+catalog: true
 tags:
--test
+    - 生活
+    - Meta
 ---
 
 
