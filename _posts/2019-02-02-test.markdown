@@ -1,7 +1,8 @@
+---
 layout:     post
-title:         "Welcome to Hux Blog"
-subtitle:    " \"Hello World, Hello Blog\""
-date:        2019-02-02 22:03:39
+title:      "test"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-02-02 22:03:39
 author:     "Deng sir"
 header-img: "img/DSC03334-1.jpg"
 tags:
@@ -9,16 +10,16 @@ tags:
 ---
 
 
-> ¡°Yeah It's on. ¡±
+> â€œYeah It's on. â€
 
-## ÕâÊÇ±êÌâ
+## è¿™æ˜¯æ ‡é¢˜
 
-[ÕâÊÇÁ´½Ó](https://www.shanbay.com)
+[è¿™æ˜¯é“¾æŽ¥](https://www.shanbay.com)
 
-ÏÂÃæµÄ»°ÎÒÏë·ÖµãÀ´Ëµ
+ä¸‹é¢çš„è¯æˆ‘æƒ³åˆ†ç‚¹æ¥è¯´
 
-*µÚÒ»µã
-*µÚ¶þµã
-*µÚÈýµã
+*ç¬¬ä¸€ç‚¹
+*ç¬¬äºŒç‚¹
+*ç¬¬ä¸‰ç‚¹
 
-**Õâ¾ä»°ÎÒÏë¼Ó´ÖÀ´Ëµ**
+**è¿™å¥è¯æˆ‘æƒ³åŠ ç²—æ¥è¯´**
