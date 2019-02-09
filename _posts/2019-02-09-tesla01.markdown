@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:       "未来已来：Elon Musk和他的特斯拉"
-subtitle:    " \"spaceX，Tesla，Paypal and iron man\""
+subtitle:    " \"SpaceX，Tesla，Paypal and Iron Man\""
 date:       2019-02-09 10:52:43
 author:     "Deng sir"
 header-img: "img/darkness/DSC02638-1.jpg"
